@@ -20,7 +20,9 @@ Se crea asi un entorno de trabajo virtual una vez instalado virtualenvwrapper::
 
 Instalación de DJANGO
 =====================
-::
+Para la instalación de django es necesario que tenga instalado pip::
+    
+     $ sudo apt-get install python-pip
      $ pip install django==1.7
 
 NOTA: La instalación de django se hara en su última versión sino lo pones la
