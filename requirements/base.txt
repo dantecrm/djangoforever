@@ -4,3 +4,4 @@ django-braces
 django-model-utils
 logutils
 
+-e git+https://github.com/sehmaschine/django-grappelli.git@dev/2.6.x#egg=django-grappelli
